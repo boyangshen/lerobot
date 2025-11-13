@@ -1,0 +1,1 @@
+python3 /home/shenboyang/myProjects/test/lerobot/lerobot/common/robot_devices/cameras/opencv.py
